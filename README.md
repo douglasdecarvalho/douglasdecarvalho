@@ -1,4 +1,4 @@
-### Olá, advinha quem eu sou? 
+### Me chamo Douglas e atualmente estou no curso FullStack Web na Digital House
 
 <div align="center">
   <a href="https://github.com/douglasdecarvalho">
