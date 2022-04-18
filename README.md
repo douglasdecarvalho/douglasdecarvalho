@@ -1,4 +1,5 @@
-### Me chamo Douglas e atualmente estou no curso FullStack Web na Digital House 🤟
+### Opa olha só quem apareceu, mas se não me conhece, prazer, me chamo Douglas!
+Atualmente estou no curso FullStack Web na Digital House 🤟
 <br>
 
 <div align="center">
