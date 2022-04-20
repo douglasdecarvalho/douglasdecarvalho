@@ -18,5 +18,5 @@ Atualmente estou no curso FullStack Web na Digital House 🤟
   
   <div>
     
-  <a href="https://www.linkedin.com/in/douglas-de-carvalho-santos-69a15329" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/douglas-de-carvalho-santos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
