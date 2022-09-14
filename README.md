@@ -1,5 +1,5 @@
 ### Opa olha só quem apareceu, mas se não me conhece, prazer, me chamo Douglas!
-Atualmente estou no curso FullStack Web na Digital House 🤟
+Atualmente estou no curso FullStack Web na Rocketseat 🤟
 <br>
 
 <div align="center">
