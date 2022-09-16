@@ -1,5 +1,6 @@
-### Opa olha só quem apareceu, mas se não me conhece, prazer, me chamo Douglas!
-Atualmente estou no curso FullStack Web na Rocketseat 🤟
+### Opa olha só quem apareceu!! 
+Mas se não me conhece, prazer, me chamo Douglas!
+
 <br>
 
 <div align="center">
